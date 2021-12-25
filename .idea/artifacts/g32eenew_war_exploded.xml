@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="g32eenew:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/g32eenew_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="g32eenew" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="g32eenew/web/Web" />
+    </root>
+  </artifact>
+</component>
